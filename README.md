@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , Download the HTML Gallery Template</h1>
 <h3 align="center"> Included	HTML Files, CSS Files, Images, Fonts</h3>
-<a href="https://github.com/Dila-wa" target="_blank"<h4 align="center"><span>Click Me</span></h4></a>
+<a href="https://htmlgallery.tk/" target="_blank"<h4 align="center"><span>Click Me</span></h4></a>
 
 ![image](https://user-images.githubusercontent.com/71760760/163670583-eea1cb43-149e-4b48-a38b-afb3bfb63a28.png)
 ![image](https://user-images.githubusercontent.com/71760760/163670598-24f6136c-bf82-4953-9d3a-624b651a2954.png)
